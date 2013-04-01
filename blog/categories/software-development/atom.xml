@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Software Development | Rails of Fury]]></title>
+  <link href="http://jondruse.github.com/blog/categories/software-development/atom.xml" rel="self"/>
+  <link href="http://jondruse.github.com/"/>
+  <updated>2013-04-01T10:03:09-07:00</updated>
+  <id>http://jondruse.github.com/</id>
+  <author>
+    <name><![CDATA[Jon Druse]]></name>
+    <email><![CDATA[jon@jondruse.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Yet another dev blog]]></title>
+    <link href="http://jondruse.github.com/blog/2012/08/25/yet-another-dev-blog/"/>
+    <updated>2012-08-25T20:37:00-07:00</updated>
+    <id>http://jondruse.github.com/blog/2012/08/25/yet-another-dev-blog</id>
+    <content type="html"><![CDATA[<p>As they say, "3rd time's a charm." so hopefully this blog will stay.  Yay!</p>
+]]></content>
+  </entry>
+  
+</feed>
